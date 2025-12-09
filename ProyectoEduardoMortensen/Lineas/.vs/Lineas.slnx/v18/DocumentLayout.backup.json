@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Lineas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A066553C-F854-49FB-9870-0FB878F15AB3}|Lineas.csproj|c:\\users\\hp\\desktop\\grafica unidad 2\\proyectolineas\\lineas\\formrelleno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A066553C-F854-49FB-9870-0FB878F15AB3}|Lineas.csproj|solutionrelative:formrelleno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A066553C-F854-49FB-9870-0FB878F15AB3}|Lineas.csproj|c:\\users\\hp\\desktop\\grafica unidad 2\\proyectolineas\\lineas\\formrecortarpoligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A066553C-F854-49FB-9870-0FB878F15AB3}|Lineas.csproj|solutionrelative:formrecortarpoligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A066553C-F854-49FB-9870-0FB878F15AB3}|Lineas.csproj|c:\\users\\hp\\desktop\\grafica unidad 2\\proyectolineas\\lineas\\formrecortarpoligono.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A066553C-F854-49FB-9870-0FB878F15AB3}|Lineas.csproj|solutionrelative:formrecortarpoligono.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A066553C-F854-49FB-9870-0FB878F15AB3}|Lineas.csproj|c:\\users\\hp\\desktop\\grafica unidad 2\\proyectolineas\\lineas\\formlineas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A066553C-F854-49FB-9870-0FB878F15AB3}|Lineas.csproj|solutionrelative:formlineas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A066553C-F854-49FB-9870-0FB878F15AB3}|Lineas.csproj|c:\\users\\hp\\desktop\\grafica unidad 2\\proyectolineas\\lineas\\formcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A066553C-F854-49FB-9870-0FB878F15AB3}|Lineas.csproj|solutionrelative:formcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A066553C-F854-49FB-9870-0FB878F15AB3}|Lineas.csproj|c:\\users\\hp\\desktop\\grafica unidad 2\\proyectolineas\\lineas\\formrecortarpoligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A066553C-F854-49FB-9870-0FB878F15AB3}|Lineas.csproj|solutionrelative:formrecortarpoligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormRelleno.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Lineas\\FormRelleno.cs",
+              "RelativeDocumentMoniker": "FormRelleno.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Lineas\\FormRelleno.cs",
+              "RelativeToolTip": "FormRelleno.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAD4v1wAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T02:30:13.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormLineas.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Lineas\\FormLineas.cs",
+              "RelativeDocumentMoniker": "FormLineas.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Lineas\\FormLineas.cs",
+              "RelativeToolTip": "FormLineas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:55:45.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormCirculo.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Lineas\\FormCirculo.cs",
+              "RelativeDocumentMoniker": "FormCirculo.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Lineas\\FormCirculo.cs",
+              "RelativeToolTip": "FormCirculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:48:22.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormRecortarPoligono.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Lineas\\FormRecortarPoligono.Designer.cs",
+              "RelativeDocumentMoniker": "FormRecortarPoligono.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Lineas\\FormRecortarPoligono.Designer.cs",
+              "RelativeToolTip": "FormRecortarPoligono.Designer.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAwwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:37:58.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormRecortarPoligono.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Lineas\\FormRecortarPoligono.cs",
+              "RelativeDocumentMoniker": "FormRecortarPoligono.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Lineas\\FormRecortarPoligono.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormRecortarPoligono.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:38:07.936Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormRecortarPoligono.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Lineas\\FormRecortarPoligono.cs",
+              "RelativeDocumentMoniker": "FormRecortarPoligono.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Lineas\\FormRecortarPoligono.cs",
+              "RelativeToolTip": "FormRecortarPoligono.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:27:48.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
