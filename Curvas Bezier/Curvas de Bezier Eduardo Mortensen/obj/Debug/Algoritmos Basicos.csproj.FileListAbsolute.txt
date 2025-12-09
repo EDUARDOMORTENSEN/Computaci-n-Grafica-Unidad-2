@@ -1,0 +1,23 @@
+C:\Users\HP\Desktop\GRAFICA UNIDAD 2\ProyectoLineas\Lineas\bin\Debug\Lineas.exe.config
+C:\Users\HP\Desktop\GRAFICA UNIDAD 2\ProyectoLineas\Lineas\bin\Debug\Lineas.exe
+C:\Users\HP\Desktop\GRAFICA UNIDAD 2\ProyectoLineas\Lineas\bin\Debug\Lineas.pdb
+C:\Users\HP\Desktop\GRAFICA UNIDAD 2\ProyectoLineas\Lineas\obj\Debug\Algoritmos Basicos.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\GRAFICA UNIDAD 2\ProyectoLineas\Lineas\obj\Debug\Lineas.FormLineas.resources
+C:\Users\HP\Desktop\GRAFICA UNIDAD 2\ProyectoLineas\Lineas\obj\Debug\Lineas.FormCirculo.resources
+C:\Users\HP\Desktop\GRAFICA UNIDAD 2\ProyectoLineas\Lineas\obj\Debug\Lineas.FormRecortarPoligono.resources
+C:\Users\HP\Desktop\GRAFICA UNIDAD 2\ProyectoLineas\Lineas\obj\Debug\Lineas.MDIParent.resources
+C:\Users\HP\Desktop\GRAFICA UNIDAD 2\ProyectoLineas\Lineas\obj\Debug\Lineas.Properties.Resources.resources
+C:\Users\HP\Desktop\GRAFICA UNIDAD 2\ProyectoLineas\Lineas\obj\Debug\Algoritmos Basicos.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\GRAFICA UNIDAD 2\ProyectoLineas\Lineas\obj\Debug\Algoritmos Basicos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\GRAFICA UNIDAD 2\ProyectoLineas\Lineas\obj\Debug\Lineas.exe
+C:\Users\HP\Desktop\GRAFICA UNIDAD 2\ProyectoLineas\Lineas\obj\Debug\Lineas.pdb
+C:\Users\HP\Desktop\GRAFICA UNIDAD 2\ProyectoLineas\Curvas de Bezier Eduardo Mortensen\obj\Debug\Algoritmos Basicos.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\GRAFICA UNIDAD 2\ProyectoLineas\Curvas de Bezier Eduardo Mortensen\obj\Debug\Lineas.MDIParent.resources
+C:\Users\HP\Desktop\GRAFICA UNIDAD 2\ProyectoLineas\Curvas de Bezier Eduardo Mortensen\obj\Debug\Lineas.Properties.Resources.resources
+C:\Users\HP\Desktop\GRAFICA UNIDAD 2\ProyectoLineas\Curvas de Bezier Eduardo Mortensen\obj\Debug\Algoritmos Basicos.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\GRAFICA UNIDAD 2\ProyectoLineas\Curvas de Bezier Eduardo Mortensen\obj\Debug\Algoritmos Basicos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\GRAFICA UNIDAD 2\ProyectoLineas\Curvas de Bezier Eduardo Mortensen\obj\Debug\Lineas.exe
+C:\Users\HP\Desktop\GRAFICA UNIDAD 2\ProyectoLineas\Curvas de Bezier Eduardo Mortensen\obj\Debug\Lineas.pdb
+C:\Users\HP\Desktop\GRAFICA UNIDAD 2\ProyectoLineas\Curvas de Bezier Eduardo Mortensen\bin\Debug\Lineas.exe.config
+C:\Users\HP\Desktop\GRAFICA UNIDAD 2\ProyectoLineas\Curvas de Bezier Eduardo Mortensen\bin\Debug\Lineas.exe
+C:\Users\HP\Desktop\GRAFICA UNIDAD 2\ProyectoLineas\Curvas de Bezier Eduardo Mortensen\bin\Debug\Lineas.pdb

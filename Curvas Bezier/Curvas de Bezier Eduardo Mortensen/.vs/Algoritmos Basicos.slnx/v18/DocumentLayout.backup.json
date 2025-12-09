@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Curvas de Bezier Eduardo Mortensen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A066553C-F854-49FB-9870-0FB878F15AB3}|Algoritmos Basicos.csproj|c:\\users\\hp\\desktop\\grafica unidad 2\\proyectolineas\\curvas de bezier eduardo mortensen\\formulariopadre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A066553C-F854-49FB-9870-0FB878F15AB3}|Algoritmos Basicos.csproj|solutionrelative:formulariopadre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A066553C-F854-49FB-9870-0FB878F15AB3}|Lineas.csproj|C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Curvas de Bezier Eduardo Mortensen\\formulariopadre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A066553C-F854-49FB-9870-0FB878F15AB3}|Lineas.csproj|solutionrelative:formulariopadre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A066553C-F854-49FB-9870-0FB878F15AB3}|Algoritmos Basicos.csproj|c:\\users\\hp\\desktop\\grafica unidad 2\\proyectolineas\\curvas de bezier eduardo mortensen\\formulariopadre.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A066553C-F854-49FB-9870-0FB878F15AB3}|Algoritmos Basicos.csproj|solutionrelative:formulariopadre.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A066553C-F854-49FB-9870-0FB878F15AB3}|Lineas.csproj|C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Curvas de Bezier Eduardo Mortensen\\formulariopadre.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A066553C-F854-49FB-9870-0FB878F15AB3}|Lineas.csproj|solutionrelative:formulariopadre.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A066553C-F854-49FB-9870-0FB878F15AB3}|Algoritmos Basicos.csproj|c:\\users\\hp\\desktop\\grafica unidad 2\\proyectolineas\\curvas de bezier eduardo mortensen\\formulariopadre.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A066553C-F854-49FB-9870-0FB878F15AB3}|Algoritmos Basicos.csproj|solutionrelative:formulariopadre.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A066553C-F854-49FB-9870-0FB878F15AB3}|Algoritmos Basicos.csproj|c:\\users\\hp\\desktop\\grafica unidad 2\\proyectolineas\\curvas de bezier eduardo mortensen\\clases_algoritmos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A066553C-F854-49FB-9870-0FB878F15AB3}|Algoritmos Basicos.csproj|solutionrelative:clases_algoritmos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormularioPadre.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Curvas de Bezier Eduardo Mortensen\\FormularioPadre.cs",
+              "RelativeDocumentMoniker": "FormularioPadre.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Curvas de Bezier Eduardo Mortensen\\FormularioPadre.cs*",
+              "RelativeToolTip": "FormularioPadre.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T15:23:43.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormularioPadre.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Curvas de Bezier Eduardo Mortensen\\FormularioPadre.Designer.cs",
+              "RelativeDocumentMoniker": "FormularioPadre.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Curvas de Bezier Eduardo Mortensen\\FormularioPadre.Designer.cs*",
+              "RelativeToolTip": "FormularioPadre.Designer.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAC4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T15:21:37.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormularioPadre.resx",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Curvas de Bezier Eduardo Mortensen\\FormularioPadre.resx",
+              "RelativeDocumentMoniker": "FormularioPadre.resx",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Curvas de Bezier Eduardo Mortensen\\FormularioPadre.resx",
+              "RelativeToolTip": "FormularioPadre.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-09T15:21:35.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Curvas de Bezier Eduardo Mortensen\\Clases_Algoritmos\\Program.cs",
+              "RelativeDocumentMoniker": "Clases_Algoritmos\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Curvas de Bezier Eduardo Mortensen\\Clases_Algoritmos\\Program.cs",
+              "RelativeToolTip": "Clases_Algoritmos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T15:15:50.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormularioPadre.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Curvas de Bezier Eduardo Mortensen\\FormularioPadre.cs",
+              "RelativeDocumentMoniker": "FormularioPadre.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Curvas de Bezier Eduardo Mortensen\\FormularioPadre.cs",
+              "RelativeToolTip": "FormularioPadre.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:54:51.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormularioPadre.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Curvas de Bezier Eduardo Mortensen\\FormularioPadre.Designer.cs",
+              "RelativeDocumentMoniker": "FormularioPadre.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\GRAFICA UNIDAD 2\\ProyectoLineas\\Curvas de Bezier Eduardo Mortensen\\FormularioPadre.Designer.cs",
+              "RelativeToolTip": "FormularioPadre.Designer.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:50:35.039Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
